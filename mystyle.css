@@ -8,10 +8,10 @@ ul.navbar {
   list-style-type: none;
   padding: 0;
   margin: 0;
-  position: sticky;
+  position: absolute;
   top: 2em;
   left: 1em;
-  width: 9em }
+  width: 10em }
 h1 {
   font-family: Helvetica, Geneva, Arial,
         SunSans-Regular, sans-serif }

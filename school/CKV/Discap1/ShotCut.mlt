@@ -1,0 +1,1554 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="6.23.0" title="Shotcut version 20.10.31" producer="main_bin">
+  <profile description="PAL 4:3 DV or DVD" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" in="00:00:00.000" out="00:00:07.720">
+    <property name="length">00:00:07.760</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3763.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T09:46:54</property>
+    <property name="shotcut:hash">e66e6127c8377c53260b02ccc2a01b31</property>
+    <property name="ignore_points">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">DSCN3763.AVI</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:00:42.600">
+    <property name="length">00:00:42.640</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3764.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T09:55:28</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a8f11e20bc06a6dbcdbe5f6829a649ab</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">DSCN3764.AVI</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:00:18.640">
+    <property name="length">00:00:18.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3765.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T09:55:58</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">85fbf057764736c6edd48409a4ae9fa7</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3766.JPG</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-07T09:56:10</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e6e06fff82cd8c145d2ba9c9e2a04de2</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3767.JPG</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-07T09:56:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">52a54a83fdbbb775628effc03f23ae89</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="00:00:07.640">
+    <property name="length">00:00:07.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3768.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T10:10:28</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fcd799e5d7f57d5292b8fadd92fd17b4</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="00:00:37.840">
+    <property name="length">00:00:37.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3769.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T10:11:12</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fab46f042aff3a2fe91918c02d65c629</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="00:00:14.240">
+    <property name="length">00:00:14.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3771.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T10:12:42</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a027f86e791e298aef171d6da343f39e</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">DSCN3771.AVI</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="00:01:16.120">
+    <property name="length">00:01:16.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3774.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T10:45:54</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e3215c1915911f0ee8945f49733a0094</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">DSCN3774.AVI</property>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="00:00:44.880">
+    <property name="length">00:00:46.600</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3775.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T11:02:14</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ad78a2878539c159e42fd00bc189afc8</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">DSCN3775.AVI</property>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="00:01:08.600">
+    <property name="length">00:01:08.640</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3779.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T11:14:02</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ad4cf43fe5c280a43e43929d16a6e2b9</property>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="00:01:45.720">
+    <property name="length">00:01:45.760</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3782.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T11:27:38</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">252e04b417654cd22bdbe9a04fc0f26e</property>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="00:00:29.040">
+    <property name="length">00:00:29.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3783.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T11:37:30</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7aed5d27b1acd9a5594024b3ca2b5097</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">DSCN3783.AVI</property>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="00:00:39.400">
+    <property name="length">00:00:39.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3784.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T11:39:30</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8b4e3830d9679ade2e652372f751460c</property>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="00:00:34.640">
+    <property name="length">00:00:34.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3788.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T12:12:26</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">255e1ee8bacc1493beebbd26e962d90a</property>
+  </producer>
+  <producer id="producer15" in="00:00:00.000" out="00:00:28.560">
+    <property name="length">00:00:28.600</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3791.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T12:14:58</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d8fa8a2d84bff0eea59e29649895530a</property>
+  </producer>
+  <producer id="producer16" in="00:00:00.000" out="00:00:29.840">
+    <property name="length">00:00:29.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3792.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T12:31:42</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b493a03ed46e8055ba8d9012f7341f82</property>
+  </producer>
+  <producer id="producer17" in="00:00:00.000" out="00:00:31.160">
+    <property name="length">00:00:31.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3793.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T12:33:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f5bc24c07dc107558b6398eebf83bfbe</property>
+  </producer>
+  <producer id="producer18" in="00:00:00.000" out="00:00:42.960">
+    <property name="length">00:00:43.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3796.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T12:39:26</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">059e7e8a5ab5e25fc8662d3836aef6f1</property>
+  </producer>
+  <producer id="producer19" in="00:00:00.000" out="00:00:24.040">
+    <property name="length">00:00:24.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3798.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T12:53:58</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fd18a41e351dbaa9bf6f1f31c27fd127</property>
+  </producer>
+  <producer id="producer20" in="00:00:00.000" out="00:00:40.360">
+    <property name="length">00:00:40.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3800.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T13:00:16</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f0bf2e4723e6156900a7eba5f4830049</property>
+  </producer>
+  <producer id="producer21" in="00:00:00.000" out="00:00:46.200">
+    <property name="length">00:00:46.240</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3801.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T13:03:32</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">998ed3d733d742fc3f1b752c04504a55</property>
+  </producer>
+  <producer id="producer22" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3802.JPG</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-07T13:25:42</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b76d0436d30332cfa0f8b04ac458008c</property>
+  </producer>
+  <producer id="producer23" in="00:00:00.000" out="00:00:39.400">
+    <property name="length">00:00:39.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3803.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T13:43:22</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c893c51ca9c5346e12f8a56f75cd7bec</property>
+  </producer>
+  <producer id="producer24" in="00:00:00.000" out="00:01:22.840">
+    <property name="length">00:01:22.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3804.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T13:47:32</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d220eb21a0567af29eb8a73541943859</property>
+  </producer>
+  <producer id="producer25" in="00:00:00.000" out="00:00:34.680">
+    <property name="length">00:00:34.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3805.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T13:48:26</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0454ba692d9006e08b07efc29e1d0033</property>
+  </producer>
+  <producer id="producer26" in="00:00:00.000" out="00:00:45.440">
+    <property name="length">00:00:45.480</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3806.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T13:49:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3c15e4899014288a21c7bff51f524baf</property>
+  </producer>
+  <producer id="producer27" in="00:00:00.000" out="00:01:37.560">
+    <property name="length">00:01:37.600</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3807.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T13:51:02</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7aa7a9724cf0b381afba0e11754842c1</property>
+  </producer>
+  <producer id="producer28" in="00:00:00.000" out="00:00:18.760">
+    <property name="length">00:00:18.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3808.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T13:51:28</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">36723c242f893c7417706c3554dd894c</property>
+  </producer>
+  <producer id="producer29" in="00:00:00.000" out="00:00:43.520">
+    <property name="length">00:00:43.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3809.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T13:54:32</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">29b1daf211f80c36f8bb06c93455284c</property>
+  </producer>
+  <producer id="producer30" in="00:00:00.000" out="00:00:52.640">
+    <property name="length">00:00:52.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3810.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T14:00:06</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9c502539d315468782acaa65568dd75e</property>
+  </producer>
+  <producer id="producer31" in="00:00:00.000" out="00:01:39.920">
+    <property name="length">00:01:39.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3812.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T14:03:38</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">982659fd1b627092b523af4cd535f870</property>
+  </producer>
+  <producer id="producer32" in="00:00:00.000" out="00:03:29.040">
+    <property name="length">00:03:29.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3816.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T14:15:52</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">dd5c0ebde7939d2cfe18e13e978d6be7</property>
+  </producer>
+  <producer id="producer33" in="00:00:00.000" out="00:00:08.720">
+    <property name="length">00:00:08.760</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3817.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T14:17:52</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">589e610a3905bba3089089515b3cacbc</property>
+  </producer>
+  <producer id="producer34" in="00:00:00.000" out="00:01:13.200">
+    <property name="length">00:01:13.240</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3819.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T14:26:32</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e1062782362ea47c0a370b33c2e56961</property>
+  </producer>
+  <producer id="producer35" in="00:00:00.000" out="00:01:26.880">
+    <property name="length">00:01:26.920</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3822.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T14:37:32</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">45d7438ca2f707d9f172636def8fdb3e</property>
+  </producer>
+  <producer id="producer36" in="00:00:00.000" out="00:01:46.920">
+    <property name="length">00:01:46.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3823.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T14:39:22</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d8d65a235c455d229b8f95bb1360eff1</property>
+  </producer>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:07.720"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:42.600"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:18.640"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:07.640"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:37.840"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:14.240"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:01:16.120"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:44.880"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:01:08.600"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:01:45.720"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:00:29.040"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:39.400"/>
+    <entry producer="producer14" in="00:00:00.000" out="00:00:34.640"/>
+    <entry producer="producer15" in="00:00:00.000" out="00:00:28.560"/>
+    <entry producer="producer16" in="00:00:00.000" out="00:00:29.840"/>
+    <entry producer="producer17" in="00:00:00.000" out="00:00:31.160"/>
+    <entry producer="producer18" in="00:00:00.000" out="00:00:42.960"/>
+    <entry producer="producer19" in="00:00:00.000" out="00:00:24.040"/>
+    <entry producer="producer20" in="00:00:00.000" out="00:00:40.360"/>
+    <entry producer="producer21" in="00:00:00.000" out="00:00:46.200"/>
+    <entry producer="producer22" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer23" in="00:00:00.000" out="00:00:39.400"/>
+    <entry producer="producer24" in="00:00:00.000" out="00:01:22.840"/>
+    <entry producer="producer25" in="00:00:00.000" out="00:00:34.680"/>
+    <entry producer="producer26" in="00:00:00.000" out="00:00:45.440"/>
+    <entry producer="producer27" in="00:00:00.000" out="00:01:37.560"/>
+    <entry producer="producer28" in="00:00:00.000" out="00:00:18.760"/>
+    <entry producer="producer29" in="00:00:00.000" out="00:00:43.520"/>
+    <entry producer="producer30" in="00:00:00.000" out="00:00:52.640"/>
+    <entry producer="producer31" in="00:00:00.000" out="00:01:39.920"/>
+    <entry producer="producer32" in="00:00:00.000" out="00:03:29.040"/>
+    <entry producer="producer33" in="00:00:00.000" out="00:00:08.720"/>
+    <entry producer="producer34" in="00:00:00.000" out="00:01:13.200"/>
+    <entry producer="producer35" in="00:00:00.000" out="00:01:26.880"/>
+    <entry producer="producer36" in="00:00:00.000" out="00:01:46.920"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:12:44.560">
+    <property name="length">00:12:44.600</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:12:44.560"/>
+  </playlist>
+  <producer id="producer37" in="00:00:00.000" out="00:00:43.080">
+    <property name="length">00:00:43.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/BartSmeets.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T10:43:53</property>
+    <property name="shotcut:hash">82c19a4aba926f85c38f0f056f96d77f</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">BartSmeets.wav</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer38" in="00:00:00.000" out="00:00:36.960">
+    <property name="length">00:00:37.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/DaanBotlek.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T10:49:20</property>
+    <property name="shotcut:hash">bdc4a6bef29268a3c8d41224c5063ea9</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">DaanBotlek.wav</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer39" in="00:00:00.000" out="00:00:12.920">
+    <property name="length">00:00:12.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/DaanBotlek2.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T10:50:44</property>
+    <property name="shotcut:hash">0bd33f4ad674c48cf7edc76a17600fe1</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">DaanBotlek2.wav</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer40" in="00:00:00.000" out="00:01:16.720">
+    <property name="length">00:01:16.760</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/Jaune.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T10:53:54</property>
+    <property name="shotcut:hash">d7c54313518f1afde987030bcb1588a6</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">Jaune.wav</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer41" in="00:00:00.000" out="00:00:44.160">
+    <property name="length">00:00:44.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/IAmElcoo.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T10:57:43</property>
+    <property name="shotcut:hash">accc1f67e34dbb81228fe2fe27b24e72</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">IAmElcoo.wav</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer42" in="00:00:00.000" out="00:00:57.000">
+    <property name="length">00:00:57.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/Joren&amp;Ilse.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T11:04:19</property>
+    <property name="shotcut:hash">945b2674ec466e69b31a4c6d3b40c6aa</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">Joren&amp;Ilse.wav</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer43" in="00:00:00.000" out="00:01:20.960">
+    <property name="length">00:01:21.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/Pinwin.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T11:13:50</property>
+    <property name="shotcut:hash">45f8f45245b8a5d96149ce9f165ac9d5</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">Pinwin.wav</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer44" in="00:00:00.000" out="00:00:28.960">
+    <property name="length">00:00:29.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/Onio.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T11:17:48</property>
+    <property name="shotcut:hash">277518d25df92f29e2aed3bd9c27d2d3</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">Onio.wav</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer45" in="00:00:00.000" out="00:00:39.080">
+    <property name="length">00:00:39.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/Mothership.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T11:28:59</property>
+    <property name="shotcut:hash">3cd5fa1f45376c67c00157bbe8b5ae77</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">Mothership.wav</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer46" in="00:00:00.000" out="00:00:28.200">
+    <property name="length">00:00:28.240</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/Onesto.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T11:37:26</property>
+    <property name="shotcut:hash">05ed1e4f54755408a94a0b84f0c444e2</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">Onesto.wav</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer47" in="00:00:00.000" out="00:00:23.160">
+    <property name="length">00:00:23.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/Maarten.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T11:47:24</property>
+    <property name="shotcut:hash">94ad203ce8887efc813d0fcf37e88e9a</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">Maarten.wav</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer48" in="00:00:00.000" out="00:00:24.200">
+    <property name="length">00:00:24.240</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/Astro.wav</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">1</property>
+    <property name="mlt_service">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">36b59dbabb6a70210fd362b1cc132311</property>
+    <property name="shotcut:defaultAudioIndex">0</property>
+    <property name="shotcut:caption">Astro.wav</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer49" in="00:00:00.000" out="00:00:35.160">
+    <property name="length">00:00:35.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/Venour.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T12:13:37</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:hash">6ffd5fabc0acd2fae5f0b8badeb1ac2f</property>
+    <property name="shotcut:caption">Venour.wav</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer50" in="00:00:00.000" out="00:00:23.000">
+    <property name="length">00:00:23.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/Winnie.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T12:18:41</property>
+    <property name="shotcut:hash">07cb4c9c8c1fd035eb587a6563edf918</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">Winnie.wav</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer51" in="00:00:00.000" out="00:00:22.360">
+    <property name="length">00:00:22.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/Collin.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T12:27:17</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:hash">0870b3454cb4b634f904ada9b8e5a0d8</property>
+    <property name="shotcut:caption">Collin.wav</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer52" in="00:00:00.000" out="00:00:33.400">
+    <property name="length">00:00:33.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/Ian.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T12:35:43</property>
+    <property name="shotcut:hash">1cdd3ed9ae7facc3de3a08d8e82d1269</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">Ian.wav</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer53" in="00:00:00.000" out="00:00:33.000">
+    <property name="length">00:00:33.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/Tymoon.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T12:44:40</property>
+    <property name="shotcut:hash">6a658302c8e596d631accc429b25078b</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">Tymoon.wav</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer54" in="00:00:00.000" out="00:00:20.600">
+    <property name="length">00:00:20.640</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/Sprague.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T14:24:39</property>
+    <property name="shotcut:hash">787abafe47c3989344672558477bd853</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">Sprague.wav</property>
+  </producer>
+  <tractor id="tractor0" global_feed="1" in="00:00:00.000" out="00:00:00.240">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer53" in="00:00:32.760" out="00:00:33.000"/>
+    <track producer="producer54" in="00:00:00.000" out="00:00:00.240"/>
+    <transition id="transition0" out="00:00:00.240">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+    </transition>
+    <transition id="transition1" out="00:00:00.240">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <producer id="producer55" in="00:00:00.000" out="00:00:31.520">
+    <property name="length">00:00:31.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/RULERS1.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T14:33:01</property>
+    <property name="shotcut:hash">7afda3c5e693ce51c6da8234139f35f7</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">RULERS1.wav</property>
+  </producer>
+  <producer id="producer56" in="00:00:00.000" out="00:00:03.360">
+    <property name="length">00:00:03.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">b:/OneDrive - CSG Calvijn/School 2020-2021/CKV/Discap1/RULERS2.wav</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2020-11-08T14:39:11</property>
+    <property name="shotcut:hash">f30f6e4403d777c67e135981811631df</property>
+    <property name="global_feed">1</property>
+    <property name="shotcut:caption">RULERS2.wav</property>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <blank length="00:00:15.120"/>
+    <entry producer="producer37" in="00:00:00.000" out="00:00:42.600"/>
+    <entry producer="producer38" in="00:00:00.000" out="00:00:36.960"/>
+    <blank length="00:00:00.880"/>
+    <entry producer="producer39" in="00:00:00.000" out="00:00:12.920"/>
+    <blank length="00:00:01.320"/>
+    <entry producer="producer40" in="00:00:00.000" out="00:01:16.120"/>
+    <entry producer="producer41" in="00:00:00.000" out="00:00:44.160"/>
+    <blank length="00:00:00.720"/>
+    <entry producer="producer42" in="00:00:00.000" out="00:00:56.640"/>
+    <entry producer="producer43" in="00:00:00.000" out="00:01:20.960"/>
+    <blank length="00:00:00.320"/>
+    <entry producer="producer44" in="00:00:00.000" out="00:00:28.960"/>
+    <blank length="00:00:00.080"/>
+    <entry producer="producer45" in="00:00:00.000" out="00:00:38.080"/>
+    <entry producer="producer46" in="00:00:00.000" out="00:00:28.200"/>
+    <blank length="00:00:00.480"/>
+    <entry producer="producer47" in="00:00:00.000" out="00:00:23.160"/>
+    <blank length="00:00:00.680"/>
+    <entry producer="producer48" in="00:00:00.000" out="00:00:24.200"/>
+    <entry producer="producer49" in="00:00:00.000" out="00:00:35.160"/>
+    <blank length="00:00:00.640"/>
+    <entry producer="producer50" in="00:00:00.000" out="00:00:23.000"/>
+    <entry producer="producer51" in="00:00:00.000" out="00:00:22.360"/>
+    <blank length="00:00:01.680"/>
+    <entry producer="producer52" in="00:00:00.000" out="00:00:32.280"/>
+    <blank length="00:00:00.280"/>
+    <entry producer="producer53" in="00:00:00.280" out="00:00:32.720"/>
+    <entry producer="tractor0" in="00:00:00.000" out="00:00:00.240"/>
+    <entry producer="producer54" in="00:00:00.280" out="00:00:20.600"/>
+    <blank length="00:00:00.120"/>
+    <entry producer="producer55" in="00:00:00.000" out="00:00:31.520"/>
+    <blank length="00:00:06.680"/>
+    <entry producer="producer56" in="00:00:00.000" out="00:00:03.360"/>
+  </playlist>
+  <producer id="producer57" in="00:00:00.000" out="00:00:10.440">
+    <property name="length">00:00:10.480</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3762.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T09:28:36</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7080113acce61f8fc020baff787e4264</property>
+    <property name="shotcut:caption">DSCN3762.AVI</property>
+  </producer>
+  <producer id="producer58" in="00:00:00.000" out="00:00:15.520">
+    <property name="length">00:00:15.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3797.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T12:53:28</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">090c577f00a2333c93411916294a18af</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">DSCN3797.AVI</property>
+  </producer>
+  <producer id="producer59" in="00:00:00.000" out="00:00:42.600">
+    <property name="length">00:00:42.640</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3764.AVI</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T09:55:28</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a8f11e20bc06a6dbcdbe5f6829a649ab</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">DSCN3764.AVI</property>
+  </producer>
+  <producer id="producer60" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3767.JPG</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-11-07T09:56:18</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">52a54a83fdbbb775628effc03f23ae89</property>
+    <property name="shotcut:caption">DSCN3767.JPG</property>
+  </producer>
+  <producer id="producer61" in="00:00:00.000" out="00:00:42.600">
+    <property name="length">00:00:42.640</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3764.AVI</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T09:55:28</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a8f11e20bc06a6dbcdbe5f6829a649ab</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">DSCN3764.AVI</property>
+  </producer>
+  <producer id="producer62" in="00:00:00.000" out="00:00:37.840">
+    <property name="length">00:00:37.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3769.AVI</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T10:11:12</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fab46f042aff3a2fe91918c02d65c629</property>
+    <property name="shotcut:caption">DSCN3769.AVI</property>
+  </producer>
+  <producer id="producer63" in="00:00:00.000" out="00:00:14.240">
+    <property name="length">00:00:14.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3771.AVI</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T10:12:42</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a027f86e791e298aef171d6da343f39e</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">DSCN3771.AVI</property>
+  </producer>
+  <producer id="producer64" in="00:00:00.000" out="00:01:16.120">
+    <property name="length">00:01:16.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3774.AVI</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T10:45:54</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e3215c1915911f0ee8945f49733a0094</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">DSCN3774.AVI</property>
+    <property name="shotcut:defaultAudioIndex">-1</property>
+  </producer>
+  <producer id="producer65" in="00:00:00.000" out="00:00:46.560">
+    <property name="length">00:00:46.600</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3775.AVI</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T11:02:14</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ad78a2878539c159e42fd00bc189afc8</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">DSCN3775.AVI</property>
+  </producer>
+  <producer id="producer66" in="00:00:00.000" out="00:00:57.160">
+    <property name="length">00:00:57.200</property>
+    <property name="eof">pause</property>
+    <property name="resource">1.2:Video/DSCN3779.AVI</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">1.2</property>
+    <property name="warp_resource">Video/DSCN3779.AVI</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="force_aspect_ratio">1.125</property>
+    <property name="shotcut_aspect_num">3</property>
+    <property name="shotcut_aspect_den">2</property>
+    <property name="shotcut:hash">ad4cf43fe5c280a43e43929d16a6e2b9</property>
+    <property name="shotcut:caption">DSCN3779.AVI (1.2x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer67" in="00:00:00.000" out="00:01:21.280">
+    <property name="length">00:01:21.320</property>
+    <property name="eof">pause</property>
+    <property name="resource">1.3:Video/DSCN3782.AVI</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">1.3</property>
+    <property name="warp_resource">Video/DSCN3782.AVI</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">252e04b417654cd22bdbe9a04fc0f26e</property>
+    <property name="shotcut:caption">DSCN3782.AVI (1.3x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer68" in="00:00:00.000" out="00:00:29.040">
+    <property name="length">00:00:29.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3783.AVI</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T11:37:30</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7aed5d27b1acd9a5594024b3ca2b5097</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">DSCN3783.AVI</property>
+  </producer>
+  <producer id="producer69" in="00:00:00.000" out="00:00:39.400">
+    <property name="length">00:00:39.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3784.AVI</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T11:39:30</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">8b4e3830d9679ade2e652372f751460c</property>
+    <property name="shotcut:caption">DSCN3784.AVI</property>
+  </producer>
+  <producer id="producer70" in="00:00:00.000" out="00:00:29.360">
+    <property name="length">00:00:29.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">1.18:Video/DSCN3788.AVI</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">1.18</property>
+    <property name="warp_resource">Video/DSCN3788.AVI</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">255e1ee8bacc1493beebbd26e962d90a</property>
+    <property name="shotcut:caption">DSCN3788.AVI (1.18x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer71" in="00:00:00.000" out="00:00:23.800">
+    <property name="length">00:00:23.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">1.2:Video/DSCN3791.AVI</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">1.2</property>
+    <property name="warp_resource">Video/DSCN3791.AVI</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">d8fa8a2d84bff0eea59e29649895530a</property>
+    <property name="shotcut:caption">DSCN3791.AVI (1.2x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer72" in="00:00:00.000" out="00:00:24.880">
+    <property name="length">00:00:24.920</property>
+    <property name="eof">pause</property>
+    <property name="resource">1.2:Video/DSCN3792.AVI</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">1.2</property>
+    <property name="warp_resource">Video/DSCN3792.AVI</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">b493a03ed46e8055ba8d9012f7341f82</property>
+    <property name="shotcut:caption">DSCN3792.AVI (1.2x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer73" in="00:00:00.000" out="00:00:35.800">
+    <property name="length">00:00:35.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">1.2:Video/DSCN3796.AVI</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">1.2</property>
+    <property name="warp_resource">Video/DSCN3796.AVI</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">059e7e8a5ab5e25fc8662d3836aef6f1</property>
+    <property name="shotcut:caption">DSCN3796.AVI (1.2x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer74" in="00:00:00.000" out="00:00:23.080">
+    <property name="length">00:00:23.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">1.35:Video/DSCN3793.AVI</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">1.35</property>
+    <property name="warp_resource">Video/DSCN3793.AVI</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">f5bc24c07dc107558b6398eebf83bfbe</property>
+    <property name="shotcut:caption">DSCN3793.AVI (1.35x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer75" in="00:00:00.000" out="00:00:23.240">
+    <property name="length">00:00:23.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">1.035:Video/DSCN3798.AVI</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">1.035</property>
+    <property name="warp_resource">Video/DSCN3798.AVI</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">fd18a41e351dbaa9bf6f1f31c27fd127</property>
+    <property name="shotcut:caption">DSCN3798.AVI (1.035x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer76" in="00:00:00.000" out="00:00:33.920">
+    <property name="length">00:00:33.960</property>
+    <property name="eof">pause</property>
+    <property name="resource">1.19:Video/DSCN3800.AVI</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">1.19</property>
+    <property name="warp_resource">Video/DSCN3800.AVI</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">f0bf2e4723e6156900a7eba5f4830049</property>
+    <property name="shotcut:caption">DSCN3800.AVI (1.19x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer77" in="00:00:00.000" out="00:00:35.520">
+    <property name="length">00:00:35.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">1.3:Video/DSCN3801.AVI</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">1.3</property>
+    <property name="warp_resource">Video/DSCN3801.AVI</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">998ed3d733d742fc3f1b752c04504a55</property>
+    <property name="shotcut:caption">DSCN3801.AVI (1.3x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer78" in="00:00:00.000" out="00:00:34.240">
+    <property name="length">00:00:34.280</property>
+    <property name="eof">pause</property>
+    <property name="resource">1.15:Video/DSCN3803.AVI</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">1.15</property>
+    <property name="warp_resource">Video/DSCN3803.AVI</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">c893c51ca9c5346e12f8a56f75cd7bec</property>
+    <property name="shotcut:caption">DSCN3803.AVI (1.15x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="force_aspect_ratio">0.75</property>
+    <property name="shotcut_aspect_num">3</property>
+    <property name="shotcut_aspect_den">3</property>
+  </producer>
+  <producer id="producer79" in="00:00:00.000" out="00:01:06.760">
+    <property name="length">00:01:06.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">1.24:Video/DSCN3804.AVI</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">1.24</property>
+    <property name="warp_resource">Video/DSCN3804.AVI</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">d220eb21a0567af29eb8a73541943859</property>
+    <property name="shotcut:caption">DSCN3804.AVI (1.24x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer80" in="00:00:00.000" out="00:00:13.760">
+    <property name="length">00:00:13.800</property>
+    <property name="eof">pause</property>
+    <property name="resource">6:Video/DSCN3804.AVI</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">6</property>
+    <property name="warp_resource">Video/DSCN3804.AVI</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">d220eb21a0567af29eb8a73541943859</property>
+    <property name="shotcut:caption">DSCN3804.AVI (6x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer81" in="00:00:00.000" out="00:01:22.840">
+    <property name="length">00:01:22.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3804.AVI</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T13:47:32</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d220eb21a0567af29eb8a73541943859</property>
+    <property name="shotcut:caption">DSCN3804.AVI</property>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer57" in="00:00:00.000" out="00:00:07.320"/>
+    <entry producer="producer58" in="00:00:00.000" out="00:00:07.720"/>
+    <entry producer="producer59" in="00:00:00.000" out="00:00:31.280"/>
+    <entry producer="producer60" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer61" in="00:00:35.320" out="00:00:42.600"/>
+    <entry producer="producer62" in="00:00:00.000" out="00:00:37.840"/>
+    <entry producer="producer63" in="00:00:00.000" out="00:00:14.240"/>
+    <entry producer="producer64" in="00:00:00.000" out="00:01:16.120"/>
+    <entry producer="producer65" in="00:00:00.000" out="00:00:44.880"/>
+    <entry producer="producer66" in="00:00:00.000" out="00:00:56.640"/>
+    <entry producer="producer67" in="00:00:00.000" out="00:01:21.280"/>
+    <entry producer="producer68" in="00:00:00.000" out="00:00:29.040"/>
+    <entry producer="producer69" in="00:00:00.000" out="00:00:38.080"/>
+    <entry producer="producer70" in="00:00:00.000" out="00:00:28.680"/>
+    <entry producer="producer71" in="00:00:00.000" out="00:00:23.800"/>
+    <blank length="00:00:00.040"/>
+    <entry producer="producer72" in="00:00:00.000" out="00:00:24.200"/>
+    <entry producer="producer73" in="00:00:00.000" out="00:00:35.800"/>
+    <entry producer="producer74" in="00:00:00.000" out="00:00:22.920"/>
+    <blank length="00:00:00.400"/>
+    <entry producer="producer75" in="00:00:00.000" out="00:00:23.240"/>
+    <blank length="00:00:00.440"/>
+    <entry producer="producer76" in="00:00:00.000" out="00:00:32.600"/>
+    <blank length="00:00:00.280"/>
+    <entry producer="producer77" in="00:00:00.000" out="00:00:32.600"/>
+    <entry producer="producer78" in="00:00:13.960" out="00:00:34.120"/>
+    <entry producer="producer79" in="00:00:00.000" out="00:00:31.640"/>
+    <entry producer="producer80" in="00:00:06.560" out="00:00:13.200"/>
+    <entry producer="producer81" in="00:01:19.200" out="00:01:22.840"/>
+  </playlist>
+  <producer id="producer82" in="00:00:00.000" out="00:01:22.840">
+    <property name="length">00:01:22.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3804.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T13:47:32</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d220eb21a0567af29eb8a73541943859</property>
+    <property name="shotcut:caption">DSCN3804.AVI</property>
+  </producer>
+  <producer id="producer83" in="00:00:00.000" out="00:01:22.840">
+    <property name="length">00:01:22.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3804.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T13:47:32</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d220eb21a0567af29eb8a73541943859</property>
+    <property name="shotcut:caption">DSCN3804.AVI</property>
+  </producer>
+  <producer id="producer84" in="00:00:00.000" out="00:01:22.840">
+    <property name="length">00:01:22.880</property>
+    <property name="eof">pause</property>
+    <property name="resource">Video/DSCN3804.AVI</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2020-11-07T13:47:32</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d220eb21a0567af29eb8a73541943859</property>
+    <property name="shotcut:caption">DSCN3804.AVI</property>
+  </producer>
+  <playlist id="playlist3">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A2</property>
+    <blank length="00:11:21.720"/>
+    <entry producer="producer82" in="00:00:00.000" out="00:00:39.240"/>
+    <entry producer="producer83" in="00:00:39.280" out="00:01:19.160"/>
+    <entry producer="producer84" in="00:01:19.200" out="00:01:22.840"/>
+  </playlist>
+  <tractor id="tractor1" title="Shotcut version 20.10.31" global_feed="1" in="00:00:00.000" out="00:12:44.560">
+    <property name="shotcut">1</property>
+    <property name="shotcut:scaleFactor">0.532429</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <track producer="background"/>
+    <track producer="playlist0" hide="video"/>
+    <track producer="playlist1"/>
+    <track producer="playlist3" hide="video"/>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>

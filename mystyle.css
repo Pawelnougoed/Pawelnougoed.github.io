@@ -1,5 +1,5 @@
 body {
-  padding-left: 68.75%;
+  padding-left: 10%;
   font-family: Georgia, "Times New Roman",
         Times, serif;
   color: purple;
@@ -11,7 +11,7 @@ ul.navbar {
   position: absolute;
   top: 2%;
   left: 2%;
-  width: 4%; }
+  width: 20%; }
 h1 {
   font-family: Helvetica, Geneva, Arial,
         SunSans-Regular, sans-serif }

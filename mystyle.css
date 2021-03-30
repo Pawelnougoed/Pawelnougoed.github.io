@@ -11,14 +11,14 @@ ul.navbar {
   position: absolute;
   top: 2%;
   left: 2%;
-  width: 20%; }
+  width: 10%; }
 h1 {
   font-family: Helvetica, Geneva, Arial,
         SunSans-Regular, sans-serif }
 ul.navbar li {
   background: white;
-  margin: 0.5em 0;
-  padding: 0.3em;
+  margin: 1% 0;
+  padding: 0.7%;
   border-right: 1em solid black }
 ul.navbar a {
   text-decoration: none }

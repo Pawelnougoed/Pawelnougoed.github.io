@@ -27,6 +27,6 @@ a:link {
 a:visited {
   color: purple }
 address {
-  margin-top: 3%;
-  padding-top: 3%;
+  margin-top: 1em;
+  padding-top: 1em;
   border-top: thin dotted }

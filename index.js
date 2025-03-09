@@ -1,5 +1,4 @@
-const request = require('request');
-
+import request
 exports.getinventory = (appid, steamid, contextid, tradeable) => {
     return new Promise((resolve, reject) => {
         if (typeof appid !== 'number') {

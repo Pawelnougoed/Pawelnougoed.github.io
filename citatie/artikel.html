@@ -1,21 +1,30 @@
 <iframe src="navbar.html" onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
 
 <form action="http://62.194.213.238/WordPress/wp-content/themes/twentytwentyone/artikel.php" method="POST">
-Naam eerste schrijver: <input type="text" name="name"> <br>
+<b>Een artikel kan in een bundel of tijdschrijft zijn. Kies hieronder of het in een bundel of tijdschrijft verschenen is</b>
+
+<input type="radio" id="tijdschrift" name="fav_language" value="HTML">
+<label for="tijdschrift">Tijdschrift</label><br>
+<input type="radio" id="bundel" name="fav_language" value="CSS">
+<label for="bundel">Bundel</label><br>
+Voornaam eerste schrijver: <input type="text" name="name"> <br>
+Achternaam eerste schrijver: <input type="text" name="lastname"> <br>
 Titel Artikel: <input type="text" name="title"><br>
-Naam Tijdschrift: <input type="text" name="journal"><br>
+Naam Tijdschrift/Bundel: <input type="text" name="journal"><br>
 Nummer Tijdschrift: <input type="text" name="number"><br>
 Publicatieplaats: <input type="text" name="year"><br>
-Publicatiedatum: <input type="text" name="year"><br>
+Publicatiedatum: <input type="text" name="date"><br>
 Paginanummer: <input type="text" name="page"><br>
+DOI (alleen nummer en letters, zonder hyperlink): <input type="text" name="DOI"><br>
 <br>
-Vertaler: <input type="text" name="translator"><br>
-Titel Bundel: <input type="text" name="bundle"><br>
-Heeft de boek 2 of meer redacteurs? <input type="checkbox" name="two_editors"><br>
-Redacteur(s): <input type="text" name="editor"><br>
-Heeft de boek meerdere schrijvers? Schrijf alle namen met comma tussen: <input type="text" name="more_writers"><br>
+Vul deze alleen in indien nodig: <br>
+Redacteur (voorletter en achternaam): <input type="text" name="editor"><br>
+Tweede of meer redacteurs (voorletter en achternaam, zet comma tussen de redacteurs ): <input type="text" name="more_editors"><br>
+Voornaam tweede schrijver:<input type="text" name="name_second"><br>
+Achternaam tweede schrijver:<input type="text" name="lastname_second"><br>
+Heeft de boek derde of meer schrijvers? (Voorletter en Achternaam. Zet comma tussen de auteurs): <input type="text" name="more_writers"><br>
 Is deze editie op meer dan 3 plekken tegelijkertijd uitgegeven?: <input type="checkbox" name="three_places"><br>
-Heeft de boek een tweede uitgave plek?: <input type="text" name="second_place"><br>
+Heeft de boek een tweede uitgave plek? Schrijf alle namen met comma tussen: <input type="text" name="second_place"><br>
 
 <input type="submit"><br><br>
 </form>Met dank aan Nochbv voor de hulp in het testen van de site.

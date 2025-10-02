@@ -7,11 +7,18 @@
 <label for="tijdschrift">Tijdschrift</label><br>
 <input type="radio" id="bundel" name="type" value="bundel">
 <label for="bundel">Bundel</label><br>
-  <br> <br>
+  <br> 
+Let op! Niet alle velden hoeven ingevuld te zijn. Vul alleen aan wat nodig is, en laat de andere velden leeg. <br>
+Probeer je de gehele bundel citeren? Laat dan de schrijver veld leeg, en vul alleen de redacteurs in. <br>
 Voornaam eerste schrijver: <input type="text" name="name"> <br>
 Achternaam eerste schrijver: <input type="text" name="lastname"> <br>
 Titel Artikel: <input type="text" name="title"><br>
 Naam Tijdschrift/Bundel: <input type="text" name="journal"><br>
+Voornaam eerste redacteur: <input type="text" name="name_editor1"> <br>
+Achternaam eerste redacteur: <input type="text" name="lastname_editor1"> <br>
+Voornaam tweede redacteur: <input type="text" name="name_editor2"> <br>
+Achternaam tweede redacteur: <input type="text" name="lastname_editor2"> <br>
+Heeft de artikel een derde of meer redacteurs? (Voorletters en Achternaam. Zet comma tussen de auteurs): <input type="text" name="more_editors"> <br>
 Nummer Tijdschrift: <input type="text" name="number"><br>
 Publicatieplaats: <input type="text" name="place"><br>
 Publicatiedatum: <input type="text" name="year"><br>
@@ -19,8 +26,7 @@ Paginanummer: <input type="text" name="page"><br>
 DOI (alleen nummer en letters, zonder hyperlink): <input type="text" name="DOI"><br>
 <br>
 Vul deze alleen in indien nodig: <br>
-Redacteur (voorletter en achternaam): <input type="text" name="editor"><br>
-Tweede of meer redacteurs (voorletter en achternaam, zet comma tussen de redacteurs ): <input type="text" name="more_editors"><br>
+Is in jouw artikel van deze bundel de auteur ook de redacteur?: <input type="checkbox" name="idem"><br>
 Voornaam tweede schrijver:<input type="text" name="name_second"><br>
 Achternaam tweede schrijver:<input type="text" name="lastname_second"><br>
 Heeft de artikel een derde of meer schrijvers? (Voorletter en Achternaam. Zet comma tussen de auteurs): <input type="text" name="more_writers"><br>

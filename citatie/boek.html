@@ -1,20 +1,22 @@
 <iframe src="navbar.html" onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
 
 <form action="http://62.194.213.238/WordPress/wp-content/themes/twentytwentyone/boek.php" method="POST">
-Naam eerste schrijver: <input type="text" name="name"> <br>
+Voornaam eerste schrijver: <input type="text" name="name"> <br>
+Achternaam eerste schrijver: <input type="text" name="lastname"> <br>
 Titel boek: <input type="text" name="title"><br>
-Druk: <input type="text" name="druk"><br>
+Druk (alleen cijfer): <input type="text" name="druk"><br>
 Publicatieplaats: <input type="text" name="place"><br>
 Publicatiedatum: <input type="text" name="year"><br>
 Paginanummer: <input type="text" name="page"><br>
 <br>
+Vul deze alleen in indien nodig: <br>
 Vertaler: <input type="text" name="translator"><br>
 Boek deel in serie: <input type="text" name="serie"><br>
 Redacteur: <input type="text" name="editor"><br>
 Heeft de boek 3 of meer schrijvers? <input type="checkbox" name="three_writers"><br>
 Heeft de boek meerdere schrijvers? Schrijf alle namen met comma tussen: <input type="text" name="more_writers"><br>
 Is deze editie op meer dan 3 plekken tegelijkertijd uitgegeven?: <input type="checkbox" name="three_places"><br>
-Heeft de boek een tweede uitgave plek?: <input type="text" name="second_place"><br>
+Heeft de boek een tweede uitgave plek? Schrijf alle namen met comma tussen: <input type="text" name="second_place"><br>
 
 <input type="submit"><br><br>
 </form>Met dank aan Nochbv voor de hulp in het testen van de site.
